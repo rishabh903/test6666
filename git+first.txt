@@ -1,0 +1,5 @@
+print(two toja ja two)
+print(two toja four)
+print(two toja six)
+print(two toja eight)
+
